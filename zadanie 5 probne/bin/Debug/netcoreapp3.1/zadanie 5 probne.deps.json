@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "zadanie 5 probne/1.0.0": {
+        "runtime": {
+          "zadanie 5 probne.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "zadanie 5 probne/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

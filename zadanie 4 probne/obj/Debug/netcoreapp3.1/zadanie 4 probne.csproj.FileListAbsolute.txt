@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\zadanie 1 praktyczny\zadanie 4 probne\bin\Debug\netcoreapp3.1\zadanie 4 probne.exe
+C:\Users\Lenovo\source\repos\zadanie 1 praktyczny\zadanie 4 probne\bin\Debug\netcoreapp3.1\zadanie 4 probne.deps.json
+C:\Users\Lenovo\source\repos\zadanie 1 praktyczny\zadanie 4 probne\bin\Debug\netcoreapp3.1\zadanie 4 probne.runtimeconfig.json
+C:\Users\Lenovo\source\repos\zadanie 1 praktyczny\zadanie 4 probne\bin\Debug\netcoreapp3.1\zadanie 4 probne.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\zadanie 1 praktyczny\zadanie 4 probne\bin\Debug\netcoreapp3.1\zadanie 4 probne.dll
+C:\Users\Lenovo\source\repos\zadanie 1 praktyczny\zadanie 4 probne\bin\Debug\netcoreapp3.1\zadanie 4 probne.pdb
+C:\Users\Lenovo\source\repos\zadanie 1 praktyczny\zadanie 4 probne\obj\Debug\netcoreapp3.1\zadanie 4 probne.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\zadanie 1 praktyczny\zadanie 4 probne\obj\Debug\netcoreapp3.1\zadanie 4 probne.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\zadanie 1 praktyczny\zadanie 4 probne\obj\Debug\netcoreapp3.1\zadanie 4 probne.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\zadanie 1 praktyczny\zadanie 4 probne\obj\Debug\netcoreapp3.1\zadanie 4 probne.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\zadanie 1 praktyczny\zadanie 4 probne\obj\Debug\netcoreapp3.1\zadanie 4 probne.dll
+C:\Users\Lenovo\source\repos\zadanie 1 praktyczny\zadanie 4 probne\obj\Debug\netcoreapp3.1\zadanie 4 probne.pdb
+C:\Users\Lenovo\source\repos\zadanie 1 praktyczny\zadanie 4 probne\obj\Debug\netcoreapp3.1\zadanie 4 probne.genruntimeconfig.cache
